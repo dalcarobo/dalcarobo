@@ -1,6 +1,7 @@
 ## Hi, I'm Gabriel! 👋
 
-💻📱 Front-end Engineer at @avec
+💻📱 Front-end Engineer at <a href="https://github.com/avec">@avec</a>
+
 🏡 Brazilian, Based in Joinville, SC - but born in Santa Maria, RS
 
 - 🔭 I’m currently working with **ReactJS**, **React Native**, **Node**, **GraphQL** and **Typescript**
