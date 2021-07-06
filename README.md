@@ -1,6 +1,6 @@
 ## Hi, I'm Gabriel! 👋
 
-💻📱 Front-end Engineer at <a href="https://github.com/avec">@avec</a>
+💻📱 Front-end Engineer at <a href="https://gok.digital/">@GO.K</a>
 
 🏡 Brazilian, Based in Joinville, SC - but born in Santa Maria, RS
 
