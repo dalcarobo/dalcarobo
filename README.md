@@ -1,6 +1,6 @@
 ## Hi, I'm Gabriel! 👋
 
-💻📱 Front-end Engineer at <a href="https://lottocap.com.br/">@LottoCap</a>
+💻📱 Front-end Engineer at <a href="https://willz.cars/">@Willz</a>
 
 🏡 Brazilian, Based in Joinville, SC - but born in Santa Maria, RS
 
