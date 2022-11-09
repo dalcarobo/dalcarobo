@@ -1,11 +1,11 @@
 ## Hi, I'm Gabriel! 👋
 
-💻📱 Front-end Engineer at <a href="https://willz.cars/">@Willz</a>
+💻📱 Front-end Engineer
 
 🏡 Brazilian, Based in Joinville, SC - but born in Santa Maria, RS
 
 - 🔭 I’m currently working with **ReactJS**, **React Native**, **Node**, **GraphQL** and **Typescript**
-- 🌱 I’m currently learning **Redux**, **UX/UI** and **Software Patterns**
+- 🌱 I’m currently learning **UX/UI** and **Software Patterns**
 - ⚡ Fun fact: I worked with PHP for 10 years before start work only with front-end
 
 ## You can find me on
