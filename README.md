@@ -1,12 +1,11 @@
 ## Hi, I'm Gabriel! 👋
 
-💻📱 Front-end Engineer
+💻📱 Full-stack Engineer
 
 🏡 Brazilian, Based in Joinville, SC - but born in Santa Maria, RS
 
 - 🔭 I’m currently working with **ReactJS**, **React Native**, **Node**, **GraphQL** and **Typescript**
 - 🌱 I’m currently learning **UX/UI** and **Software Patterns**
-- ⚡ Fun fact: I worked with PHP for 10 years before start work only with front-end
 
 ## You can find me on
 <a href='https://www.linkedin.com/in/gabriel-dal-carobo/'><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a> <a href='https://www.instagram.com/dalcarobo/'><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" /></a> <a href='mailto:gabrieldalcarobo@gmail.com'><img src="https://img.shields.io/badge/-gabrieldalcarobo@gmail.com-EA4335?logo=gmail&logoColor=white" /></a>
